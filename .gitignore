@@ -4,3 +4,4 @@ build
 **/*.js
 !examples/**/*.js
 !rollup.config.js
+config.bat
